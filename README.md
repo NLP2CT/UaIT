@@ -1,4 +1,4 @@
-### UaIT
+# UaIT
 Can LLMs Learn Uncertainty on Their Own? Expressing Uncertainty Effectively in A Self-Training Manner (EMNLP 2024)
 
 NOTE: This is the initial version code and will be updated and improved recently.
